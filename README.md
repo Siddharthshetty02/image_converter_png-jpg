@@ -27,7 +27,8 @@ image-converter/ ├── converter.py # Main script ├── images/ # Folder
 - Ensure all PNG files are placed in the `images/` folder before running the script.
 - Converted images are saved with the same name but with a `.jpg` extension.
 
-Enhancements
+## Enhancements:
+
 GUI Interface: Use Tkinter or PyQt to create a drag-and-drop interface for image uploads.
 Format Flexibility: Add options to convert between other formats like BMP, GIF, and TIFF.
 Error Handling: Notify the user about corrupted files or unsupported formats.
