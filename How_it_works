@@ -1,0 +1,8 @@
+Input:
+Place PNG files in the "images/" folder.
+
+Process:
+The script reads all PNG files from the folder, converts them to RGB mode (if needed), and saves them as JPG.
+
+Output:
+Converted JPG images are saved in the converted_images/ folder.
