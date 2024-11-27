@@ -1,0 +1,6 @@
+image-converter/
+├── converter.py       # Main script
+├── images/            # Folder to store input images
+├── converted_images/  # Folder to save converted images
+└── README.md          # Project description and instructions
+
