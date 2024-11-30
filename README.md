@@ -33,3 +33,6 @@ GUI Interface: Use Tkinter or PyQt to create a drag-and-drop interface for image
 Format Flexibility: Add options to convert between other formats like BMP, GIF, and TIFF.
 Error Handling: Notify the user about corrupted files or unsupported formats.
 Batch Conversion Progress: Show a progress bar during the batch conversion process.
+
+## SIDDHARTH RAGHUNATHA SHETTY
+Developer and Maintainer
